@@ -1,7 +1,8 @@
 # I've joined the #100DaysOfCode Challenge.
 Round 1: June 6th, 2017
 
-##Goal --> by the end of the #100DaysOfCode Challenge
+## Goal 
+These are my goals to be accomplished by the end of the #100DaysOfCode Challenge
 * to code 13 real world projects using **Ruby on Rails**
 * finish the free code camp **Front End Development Certificate**
 
