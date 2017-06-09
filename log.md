@@ -18,6 +18,15 @@
 
 **Link to work:** [My DevGram App](https://github.com/caydn/devgram)
 
+### Day 2: June 8, 2017
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Continuing to build an instagram like app.
+
+**Thoughts:** Today, I'm honestly struggling a bit with motivation. Like I'm just over it all. But that doesn't mean I'm going to quit this challenge or this project I've already poured several hours of time over. I'm just saying. These logs won't be full of all roses and revelations all the time. I may post snippets on twitter but with the character limitations, I already know I'll have to be more detailed here in the log.md file. As usual below you'll see a link to the project I'm currently working on. Oh and I'm still hopeful to end this project by 11:59:59 pm tomorrow night. So we'll see. Happy not happy coding everyone!?! Ugh w e.
+
+**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
