@@ -27,6 +27,15 @@
 
 **Link to work:** [My DevGram App](https://github.com/caydn/devgram)
 
+### Day 3: June 9, 2017
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Continuing to build an instagram like app.
+
+**Thoughts:** So mush for getting this project done today( well Friday, it's now Saturday). I'm still chugging along, motivation is at an all time low and I have a real problem with time management. I have to do better. I know there's a bunch of apps out there that is suppose to help with managing my time but idk. I have a few on my phone and I'll make more of a conscious effort to use them moving forward. Blah coding.
+
+**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
