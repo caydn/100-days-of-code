@@ -36,7 +36,9 @@
 
 **Link to work:** [My DevGram App](https://github.com/caydn/devgram)
 
-## :( I didn't log Day 4 (6.10.17) & 5 (6.11.17)
+###  Day 4 (6.10.17) & 5 (6.11.17)
+
+**Today's Progress**: :( I didn't log or code these days
 
 ### Day 6: June 12, 2017
 <!-- ##### (delete me or comment me out) -->
