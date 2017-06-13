@@ -32,7 +32,29 @@
 
 **Today's Progress**: Continuing to build an instagram like app.
 
-**Thoughts:** So mush for getting this project done today( well Friday, it's now Saturday). I'm still chugging along, motivation is at an all time low and I have a real problem with time management. I have to do better. I know there's a bunch of apps out there that is suppose to help with managing my time but idk. I have a few on my phone and I'll make more of a conscious effort to use them moving forward. Blah coding.
+**Thoughts:** So much for getting this project done today( well Friday, it's now Saturday). I'm still chugging along, motivation is at an all time low and I have a real problem with time management. I have to do better. I know there's a bunch of apps out there that is suppose to help with managing my time but idk. I have a few on my phone and I'll make more of a conscious effort to use them moving forward. Blah coding.
+
+**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
+
+## :( I didn't log Day 4 (6.10.17) & 5 (6.11.17)
+
+### Day 6: June 12, 2017
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Continuing to build an instagram like app.
+
+**Thoughts:** So I know I haven't logged in a few days, my bad. It was very unintentional. I mean can i be honest for a sec, I didn't code at all on Friday(June 9th) I did the bare minimum (because I was unmotivated), Saturday (June 10th) I thought I would have time, but with all that I had to do in the day I simple planned the day poorly. And as for Sunday, no excuses I just didn't touch my computer at all.
+
+I'm back on the wagon and full steam ahead. I think Friday and the weekend approaching in general just did something to me. Weird I know. Still working on the same project.
+
+**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
+
+### Day 7: June 13, 2017
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Continuing to build an instagram like app.
+
+**Thoughts:** I did better yesterday. Today well I'm currently coding and have been for the last 2 hrs. Same project different day. I want to finish this project before I go onto the next, but I'm bored. Can I even say that. See this is why i have as many unfinished work on my computer. F it I'm going stick with this project. End date TBD.
 
 **Link to work:** [My DevGram App](https://github.com/caydn/devgram)
 
