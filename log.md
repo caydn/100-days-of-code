@@ -60,6 +60,15 @@ I'm back on the wagon and full steam ahead. I think Friday and the weekend appro
 
 **Link to work:** [My DevGram App](https://github.com/caydn/devgram)
 
+### Day 8: June 14, 2017
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Continuing to build an instagram like app.
+
+**Thoughts:** I just barely got in 30 mins of coding today, not even worthy enough to commit to git in this very moment but give me another thirty and there will be something up in a few.
+
+**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
