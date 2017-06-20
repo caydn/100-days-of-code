@@ -69,6 +69,15 @@ I'm back on the wagon and full steam ahead. I think Friday and the weekend appro
 
 **Link to work:** [My DevGram App](https://github.com/caydn/devgram)
 
+### Day 9 - 13 : June 15-19, 2017
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: :( I didn't log or code these days
+
+**Thoughts:** I feel like such a failure. I could have all the intention in the world but the end of last week til yesterday I barely had time to do anything let alone code as much as I wanted to. :( Yeah I'm pissed at myself.
+
+**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
