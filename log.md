@@ -3,7 +3,7 @@
 **Mission Started:** September 24th 2017
 **Mission Complete:** January 2nd 2018
 
-### Day 0: June 6, 2017
+### Day 0: September 24, 2017
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Starting a new
