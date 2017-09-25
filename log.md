@@ -1,99 +1,13 @@
 # 100 Days Of Code - Log
 
+**Mission Started:** September 24th 2017
+**Mission Complete:** January 2nd 2018
+
 ### Day 0: June 6, 2017
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Started to build an instagram like app.
+**Today's Progress**: Starting a new
 
-**Thoughts:** I was really pumped when I thought of doing this 100 days of code challenge but also nervous for the commitment and discipline required to complete my goal. I see where I'm headed and I just have to get there and I know this is the only way I will. Choosing to start with something like "rebuilding" instagram felt comfortable. I figure it's a great way to ease me into coding consistently and eventually on my own without the help of my courses and tutorials. Stay tuned
+**Thoughts:** Yeah that's right folks I'm starting a new, starting today September 24th, 2017 (it's 8pm now) I will begin my 100 days of code. I failed horribly this summer when I attempted to do this same challenge. But not this time, I will complete this challenge and I will code for 100 days straight. I have several personal projects that I'm excited to build. I've already planned out most of them with the steps I need to take to ensure they all come to fruition. That's my focus. That's my plan. I'm starting "small" and working my way up. Today I'm start with not just you average to-do app but a pro management app. Even if I get stuck I will find a way to push through and continue. I would love it if there was someone to help keep me accountable but I know that I have to fly this mission solo if I plan to make it in tech working remotely and for myself. And away.... we.... go.....
 
-**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
-
-### Day 1: June 7, 2017
-<!-- ##### (delete me or comment me out) -->
-
-**Today's Progress**: Started to build an instagram like app.
-
-**Thoughts:** So yesterday I said I was going to start this app and honestly i didn't start until today. I just couldn't decide and it was pretty late so, I decided to sleep on it and start fresh today. As of right now @ 11:22pm I'm at the point of adding the User account functionality via devise. I've hit a road block but I'm going to continue, I just had to get this log in for today. Below you will find a link to my git repo for this app I'm doing. My plan is to finish it before end of day Friday, June 9th. Happy coding everyone!
-
-**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
-
-### Day 2: June 8, 2017
-<!-- ##### (delete me or comment me out) -->
-
-**Today's Progress**: Continuing to build an instagram like app.
-
-**Thoughts:** Today, I'm honestly struggling a bit with motivation. Like I'm just over it all. But that doesn't mean I'm going to quit this challenge or this project I've already poured several hours of time over. I'm just saying. These logs won't be full of all roses and revelations all the time. I may post snippets on twitter but with the character limitations, I already know I'll have to be more detailed here in the log.md file. As usual below you'll see a link to the project I'm currently working on. Oh and I'm still hopeful to end this project by 11:59:59 pm tomorrow night. So we'll see. Happy not happy coding everyone!?! Ugh w e.
-
-**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
-
-### Day 3: June 9, 2017
-<!-- ##### (delete me or comment me out) -->
-
-**Today's Progress**: Continuing to build an instagram like app.
-
-**Thoughts:** So much for getting this project done today( well Friday, it's now Saturday). I'm still chugging along, motivation is at an all time low and I have a real problem with time management. I have to do better. I know there's a bunch of apps out there that is suppose to help with managing my time but idk. I have a few on my phone and I'll make more of a conscious effort to use them moving forward. Blah coding.
-
-**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
-
-###  Day 4 (6.10.17) & 5 (6.11.17)
-
-**Today's Progress**: :( I didn't log or code these days
-
-### Day 6: June 12, 2017
-<!-- ##### (delete me or comment me out) -->
-
-**Today's Progress**: Continuing to build an instagram like app.
-
-**Thoughts:** So I know I haven't logged in a few days, my bad. It was very unintentional. I mean can i be honest for a sec, I didn't code at all on Friday(June 9th) I did the bare minimum (because I was unmotivated), Saturday (June 10th) I thought I would have time, but with all that I had to do in the day I simple planned the day poorly. And as for Sunday, no excuses I just didn't touch my computer at all.
-
-I'm back on the wagon and full steam ahead. I think Friday and the weekend approaching in general just did something to me. Weird I know. Still working on the same project.
-
-**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
-
-### Day 7: June 13, 2017
-<!-- ##### (delete me or comment me out) -->
-
-**Today's Progress**: Continuing to build an instagram like app.
-
-**Thoughts:** I did better yesterday. Today well I'm currently coding and have been for the last 2 hrs. Same project different day. I want to finish this project before I go onto the next, but I'm bored. Can I even say that. See this is why i have as many unfinished work on my computer. F it I'm going stick with this project. End date TBD.
-
-**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
-
-### Day 8: June 14, 2017
-<!-- ##### (delete me or comment me out) -->
-
-**Today's Progress**: Continuing to build an instagram like app.
-
-**Thoughts:** I just barely got in 30 mins of coding today, not even worthy enough to commit to git in this very moment but give me another thirty and there will be something up in a few.
-
-**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
-
-### Day 9 - 33  : June 15-Jul 9, 2017
-<!-- ##### (delete me or comment me out) -->
-
-**Today's Progress**: :( I didn't log or code these days
-
-**Thoughts:** Damn 25 days!!! Seriously. What the hell is wrong with me. I'm setting myself up for failure. UGH!!!! not cool. I could have all the intention in the world but the end of the day on June 15th til yesterday I barely had time to do anything let alone code at as much as I wanted to. :( Yeah I'm pissed at myself.
-
-**Link to work:** [My DevGram App](https://github.com/caydn/devgram)
-
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
-
-
-<!-- ### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link to work:** [My DailyGrind App](https://github.com/caydn/dailygrind)
