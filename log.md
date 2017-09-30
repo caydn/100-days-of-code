@@ -31,21 +31,34 @@
 **Link to work:** [Follow me on Twitter](https://twtter.com/cayferg)
 
 ### Day 3: September 27th, 2017
+
 **Today's Progress**: More info
-**Thoughts:** So yesterday I was saying that I'm doing on project before I get back to the my [Daily Grind](http://www.github.com/caydn/dailygrind) project. Well I decided to get my tech blog going. I've read many places that it's something "important and looked for when potentials look at your work, and apparently I have much to say so, it's time to get it there. I'm no stranger to blogging, I use to blog about fashion and lifestyle things and I put that all the way on pause, which is another story for another day. Perhaps I'll talk about it on my new tech blog, it is a part of my journey. with all that said see the link to my current project.
+
+**Thoughts:** So yesterday I was saying that I'm doing on project before I get back to the my [Daily Grind](http://www.github.com/caydn/dailygrind) project. Well I decided to get my tech blog going. I've read many places that it's something "important and looked for when potentials look at your work, and apparently I have much to say so, it's time to get it there. I'm no stranger to blogging, I use to blog about fashion and lifestyle things and I put that all the way on pause, which is another story for another day. Perhaps I'll talk about it on my new tech blog, it is a part of my journey. With all that said see the link to my current project. Oh an I'm sure I didn't say before but my language of choice os Ruby on Rails.
+
 **Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
 
 ### Day 4: September 28th, 2017
-**Today's Progress**:Still working
+
+**Today's Progress**: Still working
+
 **Thoughts:** I'm still moving full steam ahead. All morning as a matter a fact, but my time will be cut short today. Best believe I'll work longer tomorrow.
+
 **Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
 
 ### Day 5: September 29th, 2017
+
 **Today's Progress**: Why am I...
+
 **Thoughts:** Why am I stuck on this one thing. I hate getting stuck, it's just spinning and making this project seem more drawn out than it has to be. I'm still going, but damn, I'm ready to move on. F U responsive design!!!!!!!
+
 **Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
 
 ### Day 6: September 30th, 2017
+
 **Today's Progress**: I've moved on
-**Thoughts:** Yup, I've moved on. I can't stay on this for too long I have other projects I'm way to excited to get to. So I refused to be defeated or frustrated by this one thing. I'm currently still working on day 6 so stay tuned I may add more to this log...
+
+**Thoughts:** Yup, I've moved on. I can't stay on this for too long I have other projects I'm way to excited to get to. So I refused
+to be defeated or frustrated by this one thing. I'm currently still working on day 6 so stay tuned I may add more to this log...
+
 **Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
