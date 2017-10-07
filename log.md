@@ -62,3 +62,51 @@
 to be defeated or frustrated by this one thing. I'm currently still working on day 6 so stay tuned I may add more to this log...
 
 **Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
+
+### Day 7: October 1st, 2017
+
+**Today's Progress**: A mix
+
+**Thoughts:** Today I did a little code and a little designing. Because I realized that I'm going to have a blog dashboard but I had yet to illustrate what I wanted it to look like. Yes I know in the grand scheme of things I could always design it after I put down some hard code but I just needed a break from code honestly.
+
+**Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
+
+### Day 8: October 2nd, 2017
+
+**Today's Progress**: Designed to learn
+
+**Thoughts:** I designed yet another project. Something that will be integrated with my blog. I think it's a pretty cool idea and I can't wait for it to be finished.
+
+**Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
+
+### Day 9: October 3rd, 2017
+
+**Today's Progress**: Lost
+
+**Thoughts:** I can't believe this happened but yet I took a break from it all. And i should be slapped right now. There is no good enough reason for me to take a break but it happened.
+
+**Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
+
+### Day 10: October 4th, 2017
+
+**Today's Progress**: Focus
+
+**Thoughts:** I just can't seem to focus today, I'm literally doing 3 things at the same time. It's like my thoughts are getting the better of me. I start to code then I think of something I want to add, then I start to google what I want, then I remember I need to stop coding early because I'm leaving to so I have to pack and clean and cook. ARGH! Starting to think I need to set hard deadlines for myself to get a whole project completed.
+
+**Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
+
+### Day 11: October 5th, 2017
+
+**Today's Progress**: Foreign
+
+**Thoughts:** So I'm not in my usual space where I code and I feel as though the day has gotten the better of me. Today was a learning day. I watched a tutorial and read doc info on a gem I'll be using in my project. It all seems simple enough.
+
+**Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
+
+### Day 12: October 6th, 2017
+
+**Today's Progress**: Not as far
+
+**Thoughts:** Still not as far as I would like...
+
+**Link to work:** [DEVGIRLnotes](http://www.github.com/caydn/devgirl)
